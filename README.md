@@ -1,2 +1,3 @@
-# ciclic-number
-Check if a input number is ciclic
+# Ciclic Number
+Check if a input number is ciclic.
+
